@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vanshpatel23042004-lang&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=vanshpatel&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -74,15 +74,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vanshpatel23042004-lang&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vanshpatel&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshpatel23042004-lang&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshpatel&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshpatel23042004-lang&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshpatel&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -90,7 +90,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/vanshpatel23042004-lang/vanshpatel/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/vanshpatel/vanshpatel/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
