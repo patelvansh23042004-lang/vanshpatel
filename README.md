@@ -54,7 +54,7 @@
 ## 📫 Connect With Me
 
 LinkedIn  
-https://linkedin.com/in/YOUR-LINK
+https://www.linkdin,com/in/patel-vansh=85038231b
 
 GitHub  
 https://github.com/YOUR-USERNAME
