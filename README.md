@@ -2,6 +2,7 @@
 <h3 align="center">IT Software & Mobile Application Student</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Devloper;Data+Analytics&center=true&width=500&height=45">
 📍 Ahmedabad, India  
 💻 Passionate about Data Analytics
 </p>
