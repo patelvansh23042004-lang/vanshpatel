@@ -62,7 +62,7 @@
 ## 📊 Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,excel,power bi,tableau" />
 </p>
 
 • Advanced Excel
