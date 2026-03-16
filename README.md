@@ -62,8 +62,12 @@
 ## 📊 Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,excel,power bi,tableau" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
+
+• Advanced Excel
+• Power BI
+• Tableau
 
 ---
 
