@@ -65,10 +65,6 @@
 <img src="https://skillicons.dev/icons?i=python,excel,power bi,tableau" />
 </p>
 
-• Advanced Excel
-• Power BI
-• Tableau
-
 ---
 
 ## 📈 GitHub Stats
