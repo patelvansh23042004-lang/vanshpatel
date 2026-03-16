@@ -17,12 +17,23 @@
 
 ## 🚀 About Me
 
-🎓 Studying **IT Software & Mobile Application**
-💻 Currently learning **Java, Tkinter, Dart, PHP**
-📊 Exploring **Data Analytics**
-📚 Learning **Python, Power BI, Tableau**
-🎯 Goal: Become a professional **Data Analyst**
-📍 Ahmedabad, India
+🎓 IT Software & Mobile Application student from **Ahmedabad, India**
+
+💻 Passionate about **Technology, Programming, and Data Analytics**
+
+📊 Currently building skills in **Python, Power BI, Tableau, and Advanced Excel**
+
+🔐 Interested in **Cybersecurity and Ethical Hacking**
+
+🧠 I enjoy **solving problems, analyzing data, and learning new technologies**
+
+⚡ I believe in **learning by building real projects**
+
+📈 My goal is to become a **Professional Data Analyst**
+
+🚀 Always exploring **new tools, technologies, and innovative ideas**
+
+
 
 ---
 
