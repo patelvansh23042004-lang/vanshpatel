@@ -62,3 +62,16 @@ https://github.com/YOUR-USERNAME
 
 Email  
 vanshpatel23042004@gmail.com
+
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshpatel&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshpatel&layout=compact&theme=tokyonight" />
+</p>
