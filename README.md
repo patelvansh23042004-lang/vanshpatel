@@ -93,7 +93,7 @@
 https://www.linkedin.com/in/patel-vansh-85038231b
 
 📧 Email
-[vanshpatel23042004@gmail.com](mailto:vanshpatel23042004@gmail.com)
+[patelvansh23042004@gmail.com](mailto:vanshpatel23042004@gmail.com)
 
 ---
 
