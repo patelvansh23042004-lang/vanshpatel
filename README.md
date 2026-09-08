@@ -89,10 +89,6 @@
 
 ## 🐍 My GitHub Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/vanshpatel2323/vanshpatel/output/github-contribution-grid-snake.svg)
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshpatel2323/vanshpatel/output/github-contribution-grid-snake-dark.svg">
 
